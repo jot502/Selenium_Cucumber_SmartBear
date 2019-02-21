@@ -1,0 +1,25 @@
+{
+	"ApplicationDetails":{
+		"AppURL":"http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/",
+		"UserName":"Tester",
+		"Password":"test"
+	},	
+	"ProductInfo":{
+		"Product":"MyMoney",
+		"Quantity":"2"
+	},	
+	"AddressInfo":{
+		"CustName":"Jot Barara",
+		"Street":"Barry Road",
+		"City":"Sydney",
+		"State":"NSW",
+		"Zip":"2155"
+	},	
+	"PaymentInfo":{
+		"Card":"MasterCard",
+		"CardNo":"12345678",
+		"UpdatedCardNo":"1122334455",
+		"ExpiryDate":"02/05"
+	}
+		
+}
